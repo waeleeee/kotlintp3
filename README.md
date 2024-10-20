@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Tip Time - Solution Code
 =================================
 
@@ -22,3 +23,6 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+=======
+# kotlintp3
+>>>>>>> 3fb5d6952239ed4bb7d0d480005dd1eedb0e1ade
